@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { SearchManufacturer } from ".";
 
 const SearchBar = () => {
-  const [manufacturer, setManufacturer] = useState();
+  const [manufacturer, setManufacturer] = useState("");
   const handleSearch = () => {};
   return (
     <form action="" className="searchbar" onSubmit={handleSearch}>

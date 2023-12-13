@@ -3,13 +3,13 @@ import Hero from "./Hero";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
 import SearchBar from "./SearchBar";
-import CusomFilter from "./CusomFilter";
+import CustomFilter from "./CustomFilter";
 import SearchManufacturer from "./SearchManufacturer";
 export {
   Hero,
   Navbar,
   SearchBar,
-  CusomFilter,
+  CustomFilter,
   Footer,
   SearchManufacturer,
   CustomButton,
